@@ -2,7 +2,7 @@
 
 #### WHOAMI?
 
-- I'm ABHAY KUMAR VERMA.
+- I'm ABHAY KUMAR VERMA(Same on right).
 - 🔭 I’m currently working on my own project [Forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star⭐️❤️.)
 - 🌱 I’m currently learning majorly Nodejs, Ruby, Shell, Python.
 - 👯 I’m looking to collaborate on big companies.
