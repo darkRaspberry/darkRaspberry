@@ -3,8 +3,8 @@
 #### WHOAMI?
 
 - I'm ABHAY KUMAR VERMA.
-- 🔭 I’m currently working on my own project [forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star.)
-- 🌱 I’m currently learning majorly Nodejs, Ruby, Shell, Python
+- 🔭 I’m currently working on my own project [Forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star⭐️❤️.)
+- 🌱 I’m currently learning majorly Nodejs, Ruby, Shell, Python.
 - 👯 I’m looking to collaborate on big companies.
 - 🤔 I’m looking for help with Firebase(I seriously get easily confused)
 - 💬 Ask me about what You want.
