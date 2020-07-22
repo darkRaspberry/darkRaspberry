@@ -2,7 +2,7 @@
 
 #### WHOAMI?
 <p align="center">
-<img src="https://github.com/darkRaspberry/darkRaspberry/blob/master/src/avatars.png" alt="Avatar" width="352" height="373.3" align="center" />
+<img src="https://github.com/darkRaspberry/darkRaspberry/blob/master/src/avatars.png" alt="Avatar" width="264" height="280" />
 <p>See like really close as right pic.</p>
 </p>
 
