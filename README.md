@@ -2,7 +2,7 @@
 
 #### WHOAMI?
 
-- I'm ABHAY KUMAR VERMA 🧒🏻 (Same on right) I write code on Windows ![Windows](../blob/master/windows.png) and push through Unix/Linux. (Technially WSL with X server on Windows).
+- I'm ABHAY KUMAR VERMA 🧒🏻 (Same on right) I write code on Windows ![Windows](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/windows.png) and push through Unix/Linux. (Technially WSL with X server on Windows).
 - 🔭 I’m currently working💼 on my own project📝 [Forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star⭐️❤️.)
 - 🌱 I’m currently learning 📙 majorly Nodejs, Ruby, Shell, Python 📚 📖.
 - 👯 I’m looking to collaborate on big companies🎊 🎉.
