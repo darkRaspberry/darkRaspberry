@@ -2,7 +2,7 @@
 
 #### WHOAMI?
 
-![Avatar](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/avatars.png =352x373.3)
+![Avatar](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/avatars.png =352x373)
 
 - I'm ABHAY KUMAR VERMA 🧒🏻 (Same on right) I write code on Windows and push through Unix/Linux. (Technially WSL with X server on Windows).
 - 🔭 I’m currently working💼 on my own project📝 [Forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star⭐️❤️.)
