@@ -9,7 +9,10 @@
 #### Do you have any blog?
 Yup we got you covered i am too much excited.
 There is a too long story how this came to life. The story will be in about section. Wanna visit just click on this.
-[![BLOG](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/blog.png)](https://blog.darkraspberry.me)
+<p align="center">
+  <a href="https://blog.darkraspberry.me"><img src="https://github.com/darkRaspberry/darkRaspberry/blob/master/src/blog.png" alt="blog" /><a>
+</p>
+
 
 
 - I'm ABHAY KUMAR VERMA 🧒🏻 (Same on right) I write code </> on Windows [![Windows](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/windows.png)](https://www.microsoft.com/en-in/windows/) and push through Unix/Linux(Ubuntu  [![Ubuntu](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/ubuntu.png)](https://ubuntu.com/) ).(Technically I use WSL with X server on Windows).
