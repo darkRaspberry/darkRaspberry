@@ -8,12 +8,10 @@
 
 #### Do you have any blog?
 Yup we got you covered i am too much excited.
-There is a too long story how this came to life. The story will be in about section. Wanna visit just click on this.
+There is a too long story how this came to life. The story will be in about section. Wanna visit just click on this👇👇.
 <p align="center">
   <a href="https://blog.darkraspberry.me"><img src="https://github.com/darkRaspberry/darkRaspberry/blob/master/src/blog.png" alt="blog" /><a>
 </p>
-
-
 
 - I'm ABHAY KUMAR VERMA 🧒🏻 (Same on right) I write code </> on Windows [![Windows](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/windows.png)](https://www.microsoft.com/en-in/windows/) and push through Unix/Linux(Ubuntu  [![Ubuntu](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/ubuntu.png)](https://ubuntu.com/) ).(Technically I use WSL with X server on Windows).
 - 🔭 I’m currently working💼 on my own project 📝 [Forest](https://github.com/darkRaspberry/Forest) 🌳🌲 (Be sure to give a star⭐️❤️.)
@@ -26,4 +24,4 @@ There is a too long story how this came to life. The story will be in about sect
 - What I hate most: Slow WiFi, BSoD, silly spelling mistake.
 
 #### What's new you are working?
-From now all the repo are not with wrong spelling or less wrong spellings.
+From now all the repo are not with wrong spelling or with less wrong spellings.
