@@ -26,4 +26,4 @@ There is a too long story how this came to life. The story will be in about sect
 #### What's new you are working?
 Shifted to proper limux enviroment.
 No gpg key will be unverified or not trusted. I just learned to backup the same. Different gpg for different environment.
-From now all the repo are not with wrong spelling or with less wrong spellings.
+From now all the repo are not with wrong spelling or with less wrong spellings. 
