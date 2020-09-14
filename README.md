@@ -23,7 +23,8 @@ There is a too long story how this came to life. The story will be in about sect
 - ⚡ Fun fact: I write poems📒 , know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
 - What I hate most: Slow WiFi, BSoD, silly spelling mistake.
 
-#### What's new you are working?
- - Shifted to proper linux environment.
- - No gpg key will be unverified or not trusted. I just learned to backup the same. Different gpg for different environment.
- - From now all the repos will not with wrong spelling or with less wrong spellings. 
+#### What's new you are working on?
+ - Just need more motivation lots of project are pending.
+ - EOS for windows. As I only use Linux.
+ - No gpg key will be unverified or not trusted. I just learned to backup the same just one GPG.
+ - No spelling mistake.
