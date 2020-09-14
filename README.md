@@ -20,8 +20,8 @@ There is a too long story how this came to life. The story will be in about sect
 - 🤔 I’m looking for help with Firebase(I seriously get easily confused).
 - 💬 Ask me about what You want🤷🏻‍♂️.
 - 📫 How to reach me: [![Mail 📩📧](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20https://github.com/darkRaspberry/darkRaspberry/blob.)  👈. I'm not available on social media 💬. I hate them 🤬 . (Except WhatsApp.)
-- ⚡ Fun fact: I write poems📒 , know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
-- What I hate most: Slow WiFi, BSoD, silly spelling mistake.
+- ⚡️ Fun fact: I write poems📒 , know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
+- What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~.
 
 #### What's new you are working on?
  - Just need more motivation lots of project are pending.
