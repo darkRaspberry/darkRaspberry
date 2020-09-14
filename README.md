@@ -24,8 +24,6 @@ There is a too long story how this came to life. The story will be in about sect
 - What I hate most: Slow WiFi, BSoD, silly spelling mistake.
 
 #### What's new you are working on?
- - Purging old gpg key. It will make old commit unverified **sorry**, just making it clean.
  - Just need more motivation lots of project are pending.
- - EOS for windows. As I only use Linux.
- - No gpg key will be unverified or not trusted. I just learned to backup the same just one GPG.
- - No spelling mistake.
+ - EOS for windows. As I'm Linux user now.
+ - Old gpg key will be unverified or not trusted. I just learned to backup the same just one GPG.
