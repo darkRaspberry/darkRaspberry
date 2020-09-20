@@ -24,6 +24,6 @@ There is a too long story how this came to life. The story will be in about sect
 - What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
 #### What's new you are working on?
- - Working on some kind of api(s). Example https://strapi.io/ check this.
+ - Working on some kind of api(s). Example [strapi](https://strapi.io/) check this.
  - Just need more motivation lots of project are pending.
  - EOS for windows. As I'm Linux user now.
