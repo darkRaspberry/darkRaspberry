@@ -21,7 +21,7 @@ There is a too long story how this came to life. The story will be in about sect
 - 💬 Ask me about what You want🤷🏻‍♂️.
 - 📫 How to reach me: [![Mail 📩📧](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20https://github.com/darkRaspberry/darkRaspberry/blob.)  👈. I'm not available on social media 💬. I hate them 🤬 . (Except WhatsApp.)
 - ⚡️ Fun fact: I write poems📒 , know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
-- What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, some app are only for windows WHY? Make a deb version DEVS.
+- What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
 #### What's new you are working on?
  - Working on some kind of api(s). Example https://strapi.io/ check this.
