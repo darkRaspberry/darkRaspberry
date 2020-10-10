@@ -27,4 +27,3 @@ There is a too long story how this came to life. The story will be in about sect
  - Laptop is on and working on Hacktoberfest.
  - ~~Laptop died. Created a service request. Just waiting for OEM to fix and getting mad.~~
  - Working on some kind of api(s). Example [strapi](https://strapi.io/) check this.
- - Just need more motivation lots of project are pending.
