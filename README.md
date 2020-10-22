@@ -24,6 +24,6 @@ There is a too long story how this came to life. The story will be in about sect
 - What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
 #### What's new you are working on?
+ - Working on Forest and testing GitHub automation.
  - Laptop is on and working on Hacktoberfest.
  - ~~Laptop died. Created a service request. Just waiting for OEM to fix and getting mad.~~
- - Working on some kind of api(s). Example [strapi](https://strapi.io/) check this.
