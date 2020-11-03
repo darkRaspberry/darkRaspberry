@@ -23,6 +23,8 @@ There is a too long story how this came to life. The story will be in about sect
 - ⚡️ Fun fact: I write poems📒 , know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
 - What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
+**Actively working on [Forest](https://github.com/darkRaspberry/Forest)** Need help in automation.
+
 #### What's new you are working on?
  - Starting vector and raster image processing for Forest.
  - Working on Forest and testing GitHub automation.
