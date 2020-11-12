@@ -18,7 +18,7 @@ There is a too long story how this came to life. The story will be in about sect
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang">
 </p>
 <p>
-&bull 🔭 I’m currently working💼 on my own project.<br>
+&#8226&nbsp;🔭 I’m currently working💼 on my own project.<br>
 📝🌳🌲 (Be sure to give a star⭐️❤️.)
   <a href="https://github.com/darkRaspberry/Forest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkRaspberry&repo=Forest&theme=radical" alt="Forest readme card" align="right"/><a>
 </p>
