@@ -18,7 +18,9 @@ There is a too long story how this came to life. The story will be in about sect
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang">
 </p>
 - 🔭 I’m currently working💼 on my own project .📝 
-[![Forest](https://github-readme-stats.vercel.app/api/pin/?username=darkRaspberry&repo=Forest&theme=radical)](https://github.com/darkRaspberry/Forest)
+<p align="right">
+  <a href="https://github.com/darkRaspberry/Forest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkRaspberry&repo=Forest&theme=radical" alt="Forest readme card" /><a>
+</p>
  🌳🌲 (Be sure to give a star⭐️❤️.)
 
 - 📫 How to reach me: [![Mail 📩📧](https://github.com/darkRaspberry/darkRaspberry/blob/master/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20https://github.com/darkRaspberry/darkRaspberry/blob.)  👈. I'm not available on social media 💬. I hate them 🤬 . (Except WhatsApp.)
