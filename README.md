@@ -3,8 +3,7 @@
 <img src="../../blob/master/src/avatars.png" alt="Avatar"/>
 </p>
 
-- I'm Abhay Kumar Verma 🧒🏻 (Same on right) I write code </> on Windows [![Windows](../../blob/master/src/windows.png)](https://www.microsoft.com/en-in/windows/) and push through Unix/Linux(Ubuntu  [![Ubuntu](../../blob/master/src/ubuntu.png)](https://ubuntu.com/) ).(Technically I use WSL with X server on Windows).
-
+- I'm Abhay Kumar Verma 🧒🏻 (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/master/src/ubuntu.png)]().
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang" align="right"/>
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
@@ -19,7 +18,7 @@
 
 #### Do you have any blog?
 Yup we got you covered i am too much excited.
-There is a too long story how this came to life. The story will be in about section. Wanna visit just click on this👇👇.
+There is a too long story how this came to life. The story will be in about section. Wanna visit, just click on this👇👇.
 <p align="center">
   <a href="https://blog.darkraspberry.me"><img src="../../blob/master/src/blog.png" alt="blog" /><a>
 </p>
