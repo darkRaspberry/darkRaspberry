@@ -3,7 +3,7 @@
 <img src="../../blob/master/src/avatars.png" alt="Avatar"/>
 </p>
 
-- I'm Abhay Kumar Verma 🧒🏻 (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/master/src/ubuntu.png)]().
+ - I'm Abhay Kumar Verma 🧒🏻 (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/master/src/ubuntu.png)]().
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang" align="right"/>
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
@@ -12,9 +12,9 @@
  - What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
 #### What's going on?
+ - Getting <span style="color:green">**Green*</span> build in automation. (I'm master of automation, LOL JOKING.)
  - Starting vector and raster image processing for Forest.
  - Working on Forest and testing GitHub automation.
- - Laptop is on and working on Hacktoberfest.
 
 #### Do you have any blog?
 Yup we got you covered i am too much excited.
