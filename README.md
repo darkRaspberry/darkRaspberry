@@ -16,6 +16,9 @@
  - Starting vector and raster image processing for Forest.
  - Working on Forest and testing GitHub automation.
 
+#### Wanna support me? And don't want to spent any extra buck?
+Got you covered! Do you shop from Amazon. Shop from my affiliate link. [Here](https://amzn.to/3ac658h)?
+
 #### Do you have any blog?
 Yup we got you covered i am too much excited.
 There is a too long story how this came to life. The story will be in about section. Wanna visit, just click on this👇👇.
