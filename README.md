@@ -12,9 +12,9 @@
  - What I hate most: Slow WiFi, BSoD, ~~silly spelling mistgiitake~~, Some APPs are only for Windows WHY? Make a .deb version DEVS.
 
 #### What's going on?
+ - Killed batteryBar. (A cool app which show info about battery in web browser.)
  - Getting <span style="color:green">**Green*</span> build in automation. (I'm master of automation, LOL JOKING.)
  - Starting vector and raster image processing for Forest.
- - Working on Forest and testing GitHub automation.
 
 #### Wanna support me? And don't want to spent any extra buck?
 Got you covered! Do you shop from Amazon. Shop from my affiliate link. [Here](https://amzn.to/3ac658h)?
