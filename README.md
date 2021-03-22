@@ -1,19 +1,19 @@
 ### Hi there 👋
 <p align="center">
-<img src="../../blob/master/src/avatars.png" alt="Avatar"/>
+<img src="../../blob/main/src/avatars.png" alt="Avatar"/>
 </p>
 
- - I'm **Abhay Kumar Verma** (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/master/src/ubuntu.png)]().
+ - I'm **Abhay Kumar Verma** (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/main/src/ubuntu.png)]().
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang" align="right"/>
 
- - 📫 How to reach me: [![Mail 📩📧](../../blob/master/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20ProfileReadme) (Click this image)
+ - 📫 How to reach me: [![Mail 📩📧](../../blob/main/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20ProfileReadme) (Click this mail icon)
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
  - ⚡️ Fun fact: I write poems📒 & know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
 
 #### Do you have any blog?
 It's more than a year and if you know a I have a blog then you must visit it now. Things drastically changed.
 <p align="center">
-  <a href="https://blog.darkraspberry.ga"><img src="../../blob/master/src/blog.png" alt="blog" /><a>
+  <a href="https://blog.darkraspberry.ga"><img src="../../blob/main/src/blog.png" alt="blog" /><a>
 </p>
 
 #### Wanna support me? And don't want to spent any extra buck?
