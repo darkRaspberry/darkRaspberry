@@ -2,16 +2,16 @@
 
 You know me, right! don't you.
 
- - I'm **Abhay Kumar Verma** (Same on right) I write code </> on Ubuntu [![Ubuntu](../../blob/main/src/ubuntu.png)](). And I hate 😬 Windows because of bloat.
+ - I'm Abhay I write </> on Ubuntu [![Ubuntu](../../blob/main/src/ubuntu.png)](). And I hate 😬 Windows because of bloat.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang" align="right"/>
 
- - The most irritating thing is why Windows and Mac has something but Linux doesn't. So I'll be focusing on Linux. F**k you Windows. (Microsoft is cool though.)
+ - I primarily write code for Linux only.
  - 📫 How to reach me: [![Mail 📩📧](../../blob/main/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20ProfileReadme) (Click this mail icon)
- - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️). For 2 years do you believe me? I hate that project now.
- - ⚡️ Fun fact: I write poems📒 & know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(What❗️ Can a dev do something like this?❓)
+ - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star ⭐️). For 2 years do you believe me? I hate that project now.
+ - ⚡️ Fun fact: I write poems📒 & know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸.
 
 #### Do you have any blog?
-It's more than a year and if you know a I have a blog then you must visit it now. Things drastically changed.
+It's more than a year and if you know a I have a blog then you must visit it now. Things drastically changed. I currently write posts for App environment. How I a app should work.
 <p align="center">
   <a href="https://blog.darkraspberry.ga"><img src="../../blob/main/src/blog.png" alt="blog" /><a>
 </p>
