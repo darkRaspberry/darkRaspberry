@@ -1,24 +1,22 @@
-### Hi there 👋
+### Hi Fellow Nerd 👋
 
 You know me, right! don't you.
 
- - I'm Abhay I write </> on Ubuntu [![Ubuntu](../../blob/main/src/ubuntu.png)](). And I hate 😬 Windows because of bloat.
+ - I'm nerd, And I hate 😬 Windows because of bloat. And these are my superPowers.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkraspberry&theme=radical" alt="Top Lang" align="right"/>
 
- - I primarily write code for Linux only.
+ - 👨‍💻 I primarily write code *ON* and *FOR* Penguin(s)🐧 only.
  - 📫 How to reach me: [![Mail 📩📧](../../blob/main/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20ProfileReadme) (Click this mail icon)
- - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star ⭐️). For 2 years do you believe me? I hate that project now.
- - ⚡️ Fun fact: I write poems📒 & know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸.
+ - 🔭 I have killed more apps than Google ever created. I'm try to make a small game for 2 years. Do you believe me? I hate that project now. Except that [this](https://github.com/users/darkRaspberry/projects/1) is I'm doing now.
+ - ⚡️ Fun fact: I write poems📒 & know how to solve Rubik's cube and nasty quotes📝 and trying to be a Guitarist🎸(Tip-Don't be a guitarist).
 
 #### Do you have any blog?
-It's more than a year and if you know a I have a blog then you must visit it now. Things drastically changed. I currently write posts for App environment. How I a app should work.
+I write about *What is good developing environment?*. With some taste of privacy, cryptography, and everything related to that. Basically it says "How a app should behave."
 <p align="center">
-  <a href="https://blog.darkraspberry.ga"><img src="../../blob/main/src/blog.png" alt="blog" /><a>
+  <a href="https://blog.darkraspberry.ga"><img src="../../blob/main/src/blog.png" alt="blog" /></a>
 </p>
 
-#### Wanna support me? And don't want to spent any extra buck?
-Got you covered! Do you shop from Amazon. Shop from my affiliate link. [Here](https://amzn.to/3pKuplO)?
-
-##### Some basic status
+#### Some other superPowers
+<img src="https://tryhackme-badges.s3.amazonaws.com/darkRaspberry.png" alt="TryHackMe">
 
 [![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=darkRaspberry&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
