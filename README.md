@@ -17,6 +17,6 @@ I write about *What is good developing environment?*. With some taste of privacy
 </p>
 
 #### Some other superPowers
-<img src="https://tryhackme-badges.s3.amazonaws.com/darkRaspberry.png" alt="TryHackMe">
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/darkRaspberry.png "TryHackMe Badge")
 
 [![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=darkRaspberry&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
