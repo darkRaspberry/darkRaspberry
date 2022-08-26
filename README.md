@@ -17,7 +17,7 @@
 ## As a Pen Tester
 
  - I recently started studying cyber security and already at *[0xD][GOD]* in [TryHackMe](https://tryhackme.com/p/darkRaspberry).
- - I am at 3000+ rank and have a streak of 180+ days. I try to crack every room on [TryHackMe](https://tryhackme.com/).
+ - I am at 3000+ rank and had a streak of 200+ days. I try to crack every room on [TryHackMe](https://tryhackme.com/).
 
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/darkRaspberry.png" alt="TryHackMe badge">
@@ -26,7 +26,7 @@
 
  - I write about *What is good developing environment?*. With some taste of privacy, cryptography, and everything related to that. May be you wanna look at it.
 <p align="center">
-  <a href="https://blog.darkraspberry.ga"><img src="../../blob/main/src/blog.png" alt="blog" /></a>
+  <a href="https://blog.darkrasp.ga"><img src="../../blob/main/src/blog.png" alt="blog" /></a>
 </p>
 
  - 📫 To reach me drop a mail at [![Mail 📩📧](../../blob/main/src/gmail.png)](mailto:insidedarkpit@gmail.com?subject=I%20wanna%20know%20about%20ProfileReadme)
